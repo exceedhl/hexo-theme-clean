@@ -55,11 +55,11 @@ comments:
 footer:
   author:
   menu:
-    Home: /
-    Archives: /archives
-    Tags: /tags
-    Categories: /categories
-    About: /about
+    # Home: /
+    # Archives: /archives
+    # Tags: /tags
+    # Categories: /categories
+    # About: /about
   social_link:
     twitter_url:
     twitter_handle:

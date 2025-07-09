@@ -5,9 +5,13 @@
 article {
     .container {
         .row {
+            strong {
+                color: oklch(0.648 0.2 131.684);
+            }
+
             h1, h2, h3, h4, h5, h6 {
                 margin-top: .5rem;
-
+                color: brand-primary;
                 .header-anchor {
                     color: brand-primary;
                     opacity: 0;
@@ -77,7 +81,7 @@ article {
 
             blockquote {
                 remove-spacer();
-                font-family: font-serif;
+                font-family: font-sans-serif;
                 font-size: 16px;
                 color: #777;
                 padding: 0 1em;
